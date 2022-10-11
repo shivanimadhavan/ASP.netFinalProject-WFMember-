@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFM-FinalProject", "WFM-FinalProject\WFM-FinalProject.csproj", "{BB29533D-42DA-4A0C-97B7-427564806086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILink_WFM", "APILink_WFM\APILink_WFM.csproj", "{E99FFEB6-0F2B-487F-9EE3-89D73C1EE850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB29533D-42DA-4A0C-97B7-427564806086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29533D-42DA-4A0C-97B7-427564806086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29533D-42DA-4A0C-97B7-427564806086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29533D-42DA-4A0C-97B7-427564806086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99FFEB6-0F2B-487F-9EE3-89D73C1EE850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99FFEB6-0F2B-487F-9EE3-89D73C1EE850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99FFEB6-0F2B-487F-9EE3-89D73C1EE850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99FFEB6-0F2B-487F-9EE3-89D73C1EE850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C102FB-098E-4702-8E0D-2E07E9C36CF8}
+	EndGlobalSection
+EndGlobal
